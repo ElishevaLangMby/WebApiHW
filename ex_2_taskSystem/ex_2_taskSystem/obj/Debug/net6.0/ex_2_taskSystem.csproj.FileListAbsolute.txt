@@ -1,0 +1,106 @@
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\appsettings.Development.json
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\appsettings.json
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\ex_2_taskSystem.exe
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\ex_2_taskSystem.deps.json
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\ex_2_taskSystem.runtimeconfig.json
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\ex_2_taskSystem.dll
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\ex_2_taskSystem.pdb
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.csproj.AssemblyReference.cache
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.GeneratedMSBuildEditorConfig.editorconfig
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.AssemblyInfoInputs.cache
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.AssemblyInfo.cs
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.csproj.CoreCompileInputs.cache
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.MvcApplicationPartsAssemblyInfo.cs
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.MvcApplicationPartsAssemblyInfo.cache
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets\msbuild.ex_2_taskSystem.Microsoft.AspNetCore.StaticWebAssets.props
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.ex_2_taskSystem.props
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ex_2_taskSystem.props
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ex_2_taskSystem.props
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets.pack.json
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets.build.json
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets.development.json
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\scopedcss\bundle\ex_2_taskSystem.styles.css
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.csproj.CopyComplete
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.dll
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\refint\ex_2_taskSystem.dll
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.pdb
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.genruntimeconfig.cache
+M:\WebAPI\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ref\ex_2_taskSystem.dll
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\appsettings.json
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\ex_2_taskSystem.exe
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\ex_2_taskSystem.deps.json
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\ex_2_taskSystem.runtimeconfig.json
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\ex_2_taskSystem.dll
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\ex_2_taskSystem.pdb
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.csproj.AssemblyReference.cache
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.AssemblyInfoInputs.cache
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.AssemblyInfo.cs
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.csproj.CoreCompileInputs.cache
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets\msbuild.ex_2_taskSystem.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.ex_2_taskSystem.props
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ex_2_taskSystem.props
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ex_2_taskSystem.props
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\scopedcss\bundle\ex_2_taskSystem.styles.css
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.csproj.CopyComplete
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.dll
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\refint\ex_2_taskSystem.dll
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.pdb
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.genruntimeconfig.cache
+C:\Users\325951366\Desktop\New folder\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ref\ex_2_taskSystem.dll
+C:\Users\325951366\Desktop\מעודכן\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.csproj.AssemblyReference.cache
+C:\Users\325951366\Desktop\מעודכן\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\325951366\Desktop\מעודכן\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.AssemblyInfoInputs.cache
+C:\Users\325951366\Desktop\מעודכן\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.AssemblyInfo.cs
+C:\Users\325951366\Desktop\מעודכן\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.csproj.CoreCompileInputs.cache
+C:\Users\325951366\Desktop\מעודכן\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\325951366\Desktop\מעודכן\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\325951366\Desktop\מעודכן\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.dll
+C:\Users\325951366\Desktop\מעודכן\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\refint\ex_2_taskSystem.dll
+C:\Users\325951366\Desktop\מעודכן\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.pdb
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.csproj.AssemblyReference.cache
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.GeneratedMSBuildEditorConfig.editorconfig
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.AssemblyInfoInputs.cache
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.AssemblyInfo.cs
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.csproj.CoreCompileInputs.cache
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.MvcApplicationPartsAssemblyInfo.cs
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.MvcApplicationPartsAssemblyInfo.cache
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.dll
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\refint\ex_2_taskSystem.dll
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.pdb
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\appsettings.Development.json
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\appsettings.json
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\ex_2_taskSystem.exe
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\ex_2_taskSystem.deps.json
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\ex_2_taskSystem.runtimeconfig.json
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\ex_2_taskSystem.dll
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\ex_2_taskSystem.pdb
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\Microsoft.OpenApi.dll
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets\msbuild.ex_2_taskSystem.Microsoft.AspNetCore.StaticWebAssets.props
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets\msbuild.build.ex_2_taskSystem.props
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.ex_2_taskSystem.props
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.ex_2_taskSystem.props
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets.pack.json
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets.build.json
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\staticwebassets.development.json
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\scopedcss\bundle\ex_2_taskSystem.styles.css
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.csproj.CopyComplete
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ex_2_taskSystem.genruntimeconfig.cache
+E:\מסלול\WebApi\myHW\ex2\ex_2_taskSystem\ex_2_taskSystem\obj\Debug\net6.0\ref\ex_2_taskSystem.dll
